@@ -3,6 +3,14 @@
     "name": "funny repo",
     "description": "uhh not reposible flor brocks",
     "icon": "Icons/RepoIcon.png",
+    "featured": [
+        {
+          "name": "brick",
+          "bundleid": "com.brick.brickban",
+          "banner": "Icons/brick.png",
+          "showname": false
+        }
+      ],
     "packages": [
         {
             "name": "brick",
@@ -10,8 +18,11 @@
             "author": "Several",
             "description": "i mean its a brick!",
             "version": "1.0",
-            "icon": "Icons/brick.png",
-            "path": "Tweak/com.Several.brick.picasso"
+            "icon": "Icons/TweakIcons/brick.png",
+            "path": "Tweak/com.Several.brick.picasso",
+            "banner": "Icons/ThumbIcons/Brickbanner",
+            "screenshots": ["Icons/ScreenShots/brickscreen"]
+
         }
     ]
 }
