@@ -1,0 +1,18 @@
+{
+    "spec": "1.0",
+    "name": "funny repo",
+    "description": "uhh not reposible flor brocks",
+    "icon": "Icons/RepoIcon.png",
+    "packages": [
+        {
+            "name": "brick",
+            "bundleid": "com.brick.brick",
+            "author": "Several",
+            "description": "i mean its a brick!",
+            "version": "1.0",
+            "icon": "Icons/brick.png",
+            "path": "Tweak/com.Several.brick.picasso"
+        }
+    ]
+}
+s
